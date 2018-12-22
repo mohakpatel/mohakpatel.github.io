@@ -17,13 +17,13 @@
   font-size: 4.0rem; 
   line-height: 1.2;  
   letter-spacing: -0.1rem; 
-  font-family: "Roboto Regular";
+  font-family: "Roboto Regular",Helvetica, Arial, sans-serif;
   color: rgba(0, 0, 0, 0.87);}
 .docs-sub-header {
   font-size: 3.0rem; 
   line-height: 1.3;  
   letter-spacing: -0.08rem; 
-  font-family: "Roboto Light";
+  font-family: "Roboto Light",Helvetica, Arial, sans-serif;
   color: rgba(0, 0, 0, 0.87);}
 .docs-section {
   border-top: 1px solid #eee;
@@ -43,14 +43,14 @@
   font-size: 2.0rem; 
   line-height: 1.5;  
   letter-spacing: -.05rem; 
-  font-family: "Roboto Regular";
+  font-family: "Roboto Regular",Helvetica, Arial, sans-serif;
   color: rgba(0, 0, 0, 0.87);
 }
 .pub_a {
   font-size: 1.6rem; /* currently ems cause chrome bug misinterpreting rems on body element */
   letter-spacing: 0.025rem;
   line-height: 1.5;
-  font-family: "Roboto Regular";
+  font-family: "Roboto Regular",Helvetica, Arial, sans-serif;
   font-style: italic;
   color: rgba(0, 0, 0, 0.6);
 }
@@ -58,7 +58,7 @@
   font-size: 1.5rem; 
   line-height: 1.4;  
   letter-spacing: 0; 
-  font-family: "Roboto Medium";
+  font-family: "Roboto Medium",Helvetica, Arial, sans-serif;
   color: rgba(0, 0, 0, 0.6);
 }
 .pub_d {
@@ -196,7 +196,7 @@
     line-height: 6.5rem;
     font-size: 1.8rem; 
     letter-spacing: -0.02rem; 
-    font-family: "Roboto Regular";
+    font-family: "Roboto Regular",Helvetica, Arial, sans-serif;
     color: rgba(0, 0, 0, 0.87);}
   .navbar-link.active {
     color: #33C3F0; }
