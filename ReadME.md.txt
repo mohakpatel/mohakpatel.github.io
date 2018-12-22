@@ -1,1 +1,0 @@
-Personal webpage of Mohak Patel
