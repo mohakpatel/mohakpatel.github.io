@@ -14,13 +14,12 @@
   letter-spacing: .2rem;
   font-weight: 600; }
 .docs-header {
-  font-size: 3.5rem;
+  font-size: 3.6rem;
   letter-spacing: .2rem;
   font-weight: 600;}
 .docs-sub-header {
-  font-size: 2.5rem;
-  letter-spacing: .2rem;
-  font-weight: 400;}
+  font-size: 2.4rem;
+  font-weight: 600;}
 .docs-section {
   border-top: 1px solid #eee;
   padding: 4rem 0;
@@ -36,7 +35,7 @@
   font-weight: 600;
 }
 .pub_jc {
-  font-size: 15px;
+  font-size: 14px;
   color: #090;;
   font-weight: 600;
 }
@@ -47,8 +46,9 @@
 }
 .publ li {
   border: 1px solid #CCC;
+  border-radius: 5px;
   padding: 5px;
-  margin: 5px 2px;
+  margin: 5 px 10px;
   display: inline-block;
 }
 .value-img {
@@ -169,10 +169,8 @@
     float: left;
     margin-bottom: 0; }
   .navbar-link {
-    text-transform: uppercase;
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: .2rem;
+    font-size: 16px;
+    font-weight: 400;
     margin-right: 35px;
     text-decoration: none;
     line-height: 6.5rem;
