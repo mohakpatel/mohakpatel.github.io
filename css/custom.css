@@ -8,11 +8,19 @@
 .value-props {
   margin-top: 4rem;
   margin-bottom: 4rem; }
-.docs-header {
+.docs-header2 {
   text-transform: uppercase;
   font-size: 1.4rem;
   letter-spacing: .2rem;
   font-weight: 600; }
+.docs-header {
+  font-size: 2.5rem;
+  letter-spacing: .2rem;
+  font-weight: 600;}
+.docs-sub-header {
+  font-size: 1.8rem;
+  letter-spacing: .2rem;
+  font-weight: 400;}
 .docs-section {
   border-top: 1px solid #eee;
   padding: 4rem 0;
