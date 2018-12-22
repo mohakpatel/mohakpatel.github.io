@@ -14,17 +14,43 @@
   letter-spacing: .2rem;
   font-weight: 600; }
 .docs-header {
-  font-size: 2.5rem;
+  font-size: 3.5rem;
   letter-spacing: .2rem;
   font-weight: 600;}
 .docs-sub-header {
-  font-size: 1.8rem;
+  font-size: 2.5rem;
   letter-spacing: .2rem;
   font-weight: 400;}
 .docs-section {
   border-top: 1px solid #eee;
   padding: 4rem 0;
   margin-bottom: 0;}
+.pub_t {
+  font-size: 20px;
+  font-weight:400;
+  color: #000;
+}
+.pub_a {
+  font-size: 15px;
+  color: #900;
+  font-weight: 600;
+}
+.pub_jc {
+  font-size: 15px;
+  color: #090;;
+  font-weight: 600;
+}
+.pub_d {
+}
+.publ {
+  padding-top: 5px;
+}
+.publ li {
+  border: 1px solid #CCC;
+  padding: 5px;
+  margin: 5px 2px;
+  display: inline-block;
+}
 .value-img {
   display: block;
   text-align: center;
